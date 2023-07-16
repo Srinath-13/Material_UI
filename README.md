@@ -1,6 +1,5 @@
 # Material_UI
-<img src="https://mui.com/static/logo.png" alt="MATERIAL UI LOGO" width=50><img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="MATERIAL UI LOGO" width=50>
-
+<p align="center"><img src="https://mui.com/static/logo.png" alt="MATERIAL UI LOGO" width=200px></p>
 This project was developed to explore the different components and features of [Material UI](https://mui.com/)
 
 ## Run the application
