@@ -1,5 +1,6 @@
 # Material_UI
 <p align="center"><img src="https://mui.com/static/logo.png" alt="MATERIAL UI LOGO" width=200px></p>
+
 This project was developed to explore the different components and features of [Material UI](https://mui.com/)
 
 ## Run the application
